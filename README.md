@@ -115,8 +115,7 @@ Based on our time-series analysis identifying severe winter spikes (AQI 350+), w
 
 ## 👨‍💻 Author
 **Dev Pandey**
-* **Role:** Data Analyst Intern
-* **Project Type:** Internship Project (SPARKIIT / Wipro DICE ID)
+* **Role:** Software Engineer
 
 ---
 
